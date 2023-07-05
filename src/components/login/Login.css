@@ -1,0 +1,14 @@
+.loginContainer {
+  width: 500px;
+  padding: 10px 20px;
+  margin: 100px auto;
+  height: 100%;
+  text-align: center;
+}
+.avatarStyle {
+  background-color: #b51ac4 !important;
+  margin: 10px auto;
+}
+.loginFooter {
+  text-align: center;
+}
